@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hellia-be
 - 👀 I’m interested in open source
-- 🌱 I’m currently working as an open source consultant
+- 🌱 I’m currently working as a Security Engineer
