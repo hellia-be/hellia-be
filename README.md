@@ -6,8 +6,8 @@
 
 ### My Latest Projects
 
-- [hellia-be/puppet] - My puppet config for my home setup
-- [hellia-be/winget-wrapper] - A wrapper script for Windows around winget to give the possibility to exclude software when upgrading
+- [hellia-be/puppet](https://github.com/hellia-be/puppet) - My puppet config for my home setup
+- [hellia-be/winget-wrapper](https://github.com/hellia-be/winget-wrapper) - A wrapper script for Windows around winget to give the possibility to exclude software when upgrading
 
 ### Contact Information
 - Website: <https://kelaun.be>
