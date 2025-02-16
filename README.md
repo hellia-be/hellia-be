@@ -10,5 +10,5 @@
 - [hellia-be/winget-wrapper](https://github.com/hellia-be/winget-wrapper) - A wrapper script for Windows around winget to give the possibility to exclude software when upgrading
 
 ### Contact Information
-- Website: <https://kelaun.be>
+- Website: <https://hellia-be.github.io>
 - LinkedIn: <https://www.linkedin.com/in/kandriessens/>
