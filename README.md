@@ -15,8 +15,8 @@ Connect with me to learn how my expertise can help your organization achieve its
 
 ### My Latest Projects
 
-- [hellia-be/puppet](https://github.com/hellia-be/hellia-be.github.io) - Code for my website hosted on GitHub pages
-- [hellia-be/winget-wrapper](https://github.com/hellia-be/zmk-config) - Configuration for my keyboard using ZMK with automation and pipelines to automate the builds of the firmware
+- [hellia-be/hellia-be.github.io](https://github.com/hellia-be/hellia-be.github.io) - Code for my website hosted on GitHub pages
+- [hellia-be/zmk-config](https://github.com/hellia-be/zmk-config) - Configuration for my keyboard using ZMK with automation and pipelines to automate the builds of the firmware
 
 ### Contact Information
 - Website: <https://hellia-be.github.io>
