@@ -14,8 +14,6 @@ I am currently spearheading the launch of a new managed DevSecOps service that e
 Connect with me to learn how my expertise can help your organization achieve its security goals.
 
 ### My Latest Projects
-
-- [hellia-be/hellia-be.github.io](https://github.com/hellia-be/hellia-be.github.io) - Code for my website hosted on GitHub pages
 - [hellia-be/zmk-config](https://github.com/hellia-be/zmk-config) - Configuration for my keyboard using ZMK with automation and pipelines to automate the builds of the firmware
 
 ### Contact Information
