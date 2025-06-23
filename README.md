@@ -5,7 +5,7 @@
 </p>
 
 ### About Me
-I am a Consulting Cybersecurity Engineer specializing in Identity & Access Management (IAM) and Privileged Access Management (PAM). I help organizations strengthen their security posture and achieve their business objectives. I'm passionate about driving DevSecOps transformation and leading the development of innovative managed security services.
+As a Consulting Cybersecurity Engineer specializing in Identity & Access Management (IAM) and Privileged Access Management (PAM), I help organizations strengthen their security posture and achieve their business objectives. I'm passionate about driving DevSecOps transformation and leading the development of innovative managed security services.
 
 My expertise lies in managing IAM solutions, securing critical assets, integrating security into the development lifecycle, building and delivering managed security services. I possess a strong understanding of industry best practices and regulatory compliance requirements.
 
