@@ -17,5 +17,4 @@ Connect with me to learn how my expertise can help your organization achieve its
 - [hellia-be/zmk-config](https://github.com/hellia-be/zmk-config) - Configuration for my keyboard using ZMK with automation and pipelines to automate the builds of the firmware
 
 ### Contact Information
-- Website: <https://hellia-be.github.io>
 - LinkedIn: <https://www.linkedin.com/in/kandriessens/>
