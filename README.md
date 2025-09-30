@@ -5,15 +5,16 @@
 </p>
 
 ### About Me
-As a Consulting Cybersecurity Engineer specializing in Identity & Access Management (IAM) and Privileged Access Management (PAM), I help organizations strengthen their security posture and achieve their business objectives. I'm passionate about driving DevSecOps transformation and leading the development of innovative managed security services.
+As a Strategic Cybersecurity Consultant and DevSecOps Leader, I partner with C-suite executives and security leaders to transform how organizations integrate security into their digital transformation journey. With 10+ years of experience driving enterprise security initiatives across 15+ countries, I specialize in building comprehensive DevSecOps programs that reduce vulnerabilities by up to 45% while accelerating time-to-market.
 
-My expertise lies in managing IAM solutions, securing critical assets, integrating security into the development lifecycle, building and delivering managed security services. I possess a strong understanding of industry best practices and regulatory compliance requirements.
+My strategic expertise encompasses DevSecOps transformation, application security architecture, security program leadership, and executive advisory services. I excel at translating complex security challenges into actionable business strategies, enabling organizations to achieve both security excellence and operational efficiency.
 
-I am currently spearheading the launch of a new managed DevSecOps service that empowers organizations to seamlessly integrate security into their development processes, improve their security posture, and reduce the risk of cyberattacks.
+Currently, I'm leading the development of an innovative managed DevSecOps platform that empowers enterprises to embed security-by-design principles throughout their SDLC, achieving measurable risk reduction while maintaining development velocity. My approach combines deep technical expertise with executive-level strategic thinking to deliver solutions that align with business objectives.
 
-Connect with me to learn how my expertise can help your organization achieve its security goals.
+Ready to elevate your organization's security strategy? Let's discuss how my expertise can help you build a resilient, security-first culture that drives business growth.
 
 ### My Latest Projects
+- [hellia-be/hyprland-dots](https://github.com/hellia-be/hyprland-dots) - Configuration for my Operating System User Interface
 - [hellia-be/zmk-config](https://github.com/hellia-be/zmk-config) - Configuration for my keyboard using ZMK with automation and pipelines to automate the builds of the firmware
 
 ### Contact Information
