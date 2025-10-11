@@ -1,8 +1,14 @@
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=hellia-be&show_icons=true&theme=tokyonight" />
-    </a>
-</p>
+<picture align="center">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ### About Me
 As a Strategic Cybersecurity Consultant and DevSecOps Leader, I partner with C-suite executives and security leaders to transform how organizations integrate security into their digital transformation journey. With 10+ years of experience driving enterprise security initiatives across 15+ countries, I specialize in building comprehensive DevSecOps programs that reduce vulnerabilities by up to 45% while accelerating time-to-market.
