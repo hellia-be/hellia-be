@@ -1,27 +1,41 @@
-<picture align="center">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hellia-be&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hellia-be&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=hellia-be&show_icons=true" />
-</picture>
+# 🛡️ Kevin Andriessens // Security Director & Strategic Advisor
 
-### About Me
-As a Strategic Cybersecurity Consultant and DevSecOps Leader, I partner with C-suite executives and security leaders to transform how organizations integrate security into their digital transformation journey. With 10+ years of experience driving enterprise security initiatives across 15+ countries, I specialize in building comprehensive DevSecOps programs that reduce vulnerabilities by up to 45% while accelerating time-to-market.
+### A highly experienced and strategic cybersecurity leader translating complex risk into actionable business strategy. I specialize in building, leading, and securing enterprise environments at the executive level.
 
-My strategic expertise encompasses DevSecOps transformation, application security architecture, security program leadership, and executive advisory services. I excel at translating complex security challenges into actionable business strategies, enabling organizations to achieve both security excellence and operational efficiency.
+---
 
-Currently, I'm leading the development of an innovative managed DevSecOps platform that empowers enterprises to embed security-by-design principles throughout their SDLC, achieving measurable risk reduction while maintaining development velocity. My approach combines deep technical expertise with executive-level strategic thinking to deliver solutions that align with business objectives.
+## 💡 Strategic Focus: Governance, Risk, & Compliance (GRC)
 
-Ready to elevate your organization's security strategy? Let's discuss how my expertise can help you build a resilient, security-first culture that drives business growth.
+My expertise is rooted in leveraging advanced security knowledge to drive corporate strategy and regulatory adherence across multi-national organizations.
 
-### My Latest Projects
-- [hellia-be/hyprland-dots](https://github.com/hellia-be/hyprland-dots) - Configuration for my Operating System User Interface
-- [hellia-be/zmk-config](https://github.com/hellia-be/zmk-config) - Configuration for my keyboard using ZMK with automation and pipelines to automate the builds of the firmware
+* **Executive Strategy:** Directed cross-functional cybersecurity programs and secured executive buy-in for key, multi-million-euro initiatives.
+* **Critical Compliance:** Deep expertise in establishing governance frameworks based on **NIS2**, **DORA**, **NIST**, and **ISO 27001**.
+* **Operational Technology (OT) Security:** Secured critical **ICS** (Industrial Control Systems) environments by implementing robust controls based on the **IEC 62443** framework.
+* **Program Leadership:** Managed a multi-million-euro security portfolio, overseeing budget, resources, and successful enterprise-wide rollouts (e.g., PAM for 2,000+ users).
 
-### Contact Information
-- LinkedIn: <https://www.linkedin.com/in/kandriessens/>
+---
+
+## 🛠️ Technical Domains & Skills
+
+My hands-on background is in modern, automated, and secure enterprise infrastructure:
+
+| Domain | Key Technologies & Frameworks |
+| :--- | :--- |
+| **DevSecOps** | CI/CD (Jenkins, GitLab), Infrastructure as Code (Terraform, Puppet), Python, Go, Bash. |
+| **Cloud Security** | **Microsoft Azure** (core expertise), **AWS**, Google Cloud, Docker, Kubernetes. |
+| **Security Platforms** | CyberArk (PAM), Pentera, KnowBe4, Elastic Security, Foreman, Trivy, Prowler, Scout Suite. |
+| **Linux/Infrastructure** | RHEL, Rocky Linux, Ubuntu, PostgresSQL, MongoDB, managing 200+ servers with high uptime. |
+
+---
+
+## 🤝 Connect
+
+I'm committed to mentoring and sharing knowledge across the security community.
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn (Executive Profile)** | [linkedin.com/in/kandriessens](https://www.linkedin.com/in/kandriessens) |
+| **Email (Personal)** | kevin@kelaun.be |
+
+***
+*Note: This GitHub profile may contain personal projects and code related to my professional interests, including Python automation for security, cloud configuration, and GRC tool development.*
